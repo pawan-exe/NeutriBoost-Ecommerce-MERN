@@ -27,9 +27,6 @@ NutriBoost is a full-stack e-commerce website developed using the MERN stack. Th
 
 ![paypal](https://img.shields.io/badge/PayPal-003087.svg?style=for-the-badge&logo=PayPal&logoColor=white)
 
-**Deployed On:**
-
-![render](https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=Render&logoColor=white)
 
 ## 🚀 Features
 - Login/Signup User Account

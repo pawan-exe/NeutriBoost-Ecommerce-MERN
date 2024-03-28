@@ -1,7 +1,7 @@
 # 🥤NutriBoost - an ecommerce beverages website
 
 NutriBoost is a full-stack e-commerce website developed using the MERN stack. This platform specializes in offering a variety of beverages to users, providing a seamless shopping experience.
-### Live Website : [NutriBoost](https://cobalt-blue-waistcoat.cyclic.app/)
+### Live Website : [NutriBoost](https://nutriboost-beverages.onrender.com/)
 
 **User Credentials** <br/>
 
